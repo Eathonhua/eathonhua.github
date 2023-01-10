@@ -1,5 +1,5 @@
 ---
-title: TITLE
+title: "TITLE"
 layout: single
 author_profile: true
 permalink: /code/
