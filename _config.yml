@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Yizhou Hua"
+  avatar : "/assets/images/bio_photo.jpg"
+  bio    : "Ph.D. candidate of Agricultural Economics at Purdue University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
